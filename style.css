@@ -4,3 +4,12 @@ body {
 h1 {
     text-align: center;
 }
+#image {
+    height: 180px;
+    width: 180px;
+}
+#image2 {
+    height: 180px;
+    width: 180px;
+    display: none;
+}
